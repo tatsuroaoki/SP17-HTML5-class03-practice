@@ -47,20 +47,20 @@ img {
   background-color: salmon;
 }*/
 img {
-  width: 25%
+  width: 25%;
 }
 .aside-format {
-	height:2rem;
+	height:7rem;
 	background-color: aqua;
-	width:40%;
-	align-content: center
+	width:45%;
+	align-content: center;
 }
 .article{
-	padding:4rem;
+	padding:0.5rem;
 	background-color: aquamarine;
-	width:60%;
+	width:55%;
 	align-content: center;
 }
 .aside-format p {
-	font-family: sans-seriff
+	font-family: sans-seriff;
 }
